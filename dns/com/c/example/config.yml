@@ -1,0 +1,15 @@
+alertTypes:
+- id: eaba76c9-b6b8-43d0-8bc2-b3e41d320ddf
+  name: P4
+- id: 6d62d6e9-d6a4-4f98-93e4-eb2eebd04172
+  level: 1
+  name: P3
+- id: 122bea15-c775-423c-b65d-8c997a6a2b2a
+  level: 2
+  name: P2
+- id: bbb53077-1dad-49db-ad95-dd8abb1280d6
+  level: 3
+  name: P1
+- id: ac3fe214-9746-4404-b334-b683a840445d
+  level: 4
+  name: P0
